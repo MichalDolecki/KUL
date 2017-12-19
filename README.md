@@ -1,2 +1,2 @@
 # KUL
-Projekty z zajęć prowadzonych na Katolickim Uniwersytecie Lubelskim Jana Pawła II.
+Projekty z zajęć prowadzonych na studiach dziennych na Katolickim Uniwersytecie Lubelskim Jana Pawła II.
